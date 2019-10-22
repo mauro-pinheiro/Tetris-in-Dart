@@ -1,4 +1,5 @@
-An absolute bare-bones web app.
+# Tetris in Dart
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Copia do projeto desenvolvido no tutotial de dart no canal do youtube [Tensor Programming](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) com o objetivo de aprendizado da linguagem dart.
+
+- [ ] Melhorar projeto para aprimorar conhecimentos na linguagem
